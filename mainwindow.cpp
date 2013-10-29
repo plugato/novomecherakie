@@ -18,6 +18,9 @@ MainWindow::MainWindow(QWidget *parent) :
     //ChatSocket *s = new ChatSocket;
 
 
+                //emit ChatSocket::newPackage( *p );
+
+
 
     ui->textEdit->append("S");
 

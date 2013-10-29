@@ -5,4 +5,5 @@
 ChatSocket::ChatSocket( int descriptor  )  :
     QTcpSocket()
 {
+
 }

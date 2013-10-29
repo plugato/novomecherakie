@@ -7,6 +7,7 @@
 
 
 
+
 class ChatSocket : public QTcpSocket
 {
     Q_OBJECT
